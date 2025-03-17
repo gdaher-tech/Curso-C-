@@ -4,7 +4,7 @@
 
 int main(){
 
-  int numero_inteiro; // Declarando variável
+  int numero_inteiro = 0;  // Declarando variável
 
   printf("Insira um número inteiro: ");
   scanf("%d", &numero_inteiro);
